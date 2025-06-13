@@ -24,6 +24,10 @@ I'm a React Frontend Developer passionate about crafting reusable and accessible
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/sadaf1/sadaf1/output/dist/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sadaf-khan-11464526a/)
