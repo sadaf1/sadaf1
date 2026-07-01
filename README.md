@@ -32,7 +32,7 @@ I'm a React Frontend Developer passionate about crafting reusable and accessible
 
 ## 📫 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/sadaf-khan-11464526a/)
+- [LinkedIn](https://www.linkedin.com/in/sadafkhan4/)
 - **Email:** khan.sadaf0408@gmail.com
 
 Feel free to explore my repos and contribute!
