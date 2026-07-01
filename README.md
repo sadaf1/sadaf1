@@ -7,7 +7,7 @@ I'm a React Frontend Developer passionate about crafting reusable and accessible
 ## 🚀 My Work
 
 - Check out my [Custom Components Repo](https://github.com/sadaf1/mui-components) for reusable React components like `AutocompleteDropdown` and `TextfieldCustom`.
-- Explore my [Portfolio](https://sadaf1.github.io) for live demos.
+- Explore my [Portfolio](https://sadafkhan-dev.netlify.app/) for live demos.
 
 ---
 
